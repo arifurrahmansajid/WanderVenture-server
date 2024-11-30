@@ -64,6 +64,4 @@ Follow these steps to set up your development environment:
 - `express`: ^4.19.2
 - `mongodb`: ^6.5.0
 
-## Author
 
-- Hasan Al Mahmud
