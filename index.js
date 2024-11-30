@@ -11,7 +11,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const uri = `mongodb+srv://admin:admin@cluster0.zgdxx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
+const uri = `\`;
 
 const client = new MongoClient(uri, {
   serverApi: {
